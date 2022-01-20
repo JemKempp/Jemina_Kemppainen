@@ -1,24 +1,40 @@
 body {
-background-color:bisque;
+background-color:rgb(199, 163, 155);
 margin:20px;
 font-family: Arial, Helvetica, sans-serif;
+color:brown; 
 }
 
 p {
 color:brown;
 font-size: 20px;
 margin-bottom: 20px;
-border:darkblue;
+border:rgb(139, 0, 0);
 }
 
 img {
+    border: 1px solid rgb(233, 30, 30);
+    padding: 10px;
+    width: 250px; 
+    opacity: 0.5;
+}
 
+a:link {
+    color:rgb(228, 32, 32);
+}
+
+a:hover {
+    color:rgb(24, 21, 221);
 }
 
 h1 {
-    color:darkolivegreen
+    color: rgb(245, 22, 22);
+    font-size: 16px;
+    text-decoration-line: underline;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 h2 {
-    color:darkmagenta
+    color:rgb(139, 0, 0)
 }

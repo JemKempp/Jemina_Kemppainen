@@ -1,4 +1,7 @@
-body {
+}body {
+    background-color:blue;
+    font-family:Arial, Helvetica, sains-serif;
+    font-size: 16px;
 
 }
 
